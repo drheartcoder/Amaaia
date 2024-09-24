@@ -1,0 +1,141 @@
+.error,.red
+{
+  color:red;
+}
+
+.alert
+{
+	border:none;
+}
+
+.alert .close
+{
+	padding-right: 15px;
+}
+
+/*label.error:before 
+{
+    font-family: 'FontAwesome' !important;
+    content: '\f057' !important;
+}*/
+
+.horizotal-line
+{
+	margin-top: 0px;
+     margin-bottom: 0px; 
+}
+
+.navbar-nav > .dropdown-user img {
+    max-height: 40px;
+}
+
+/*.dataTables_filter input
+{
+	width: 95px;
+	    margin: 0;
+    padding: 0;
+    padding-left: 8px;
+        padding-right: 8px;
+}*/
+
+.dataTables_filter input {
+    outline: 0;
+    width: 180px;
+    /* height: 36px; */
+    height: 27px;
+    padding: 7px 12px;
+    font-size: 13px;
+    line-height: 1.5384616;
+    color: #333333;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.upload-pic {
+ border              : 2px solid #dddfe2;/*border-radius: 4px;*/
+ height              : 120px;width: 120px;}
+ .backclass{
+ background-color    : black;
+ }
+ .loc_add_pht {
+ margin              : 5px !important;
+ }
+ .add_pht {
+ background-repeat   : no-repeat;
+ background-position : top 15px center;
+ background-size     : 50px;
+ border              : 1px solid #ccc;
+ color               : #ccc;
+ margin              : 0px;
+ padding             : 0;
+ text-align          : center;
+ cursor              : pointer;
+ float               : left;
+ height              : 120px;
+ width               : 120px;
+ }
+ .photo_view1 { 
+ overflow            : hidden;
+ cursor              : pointer;
+ float               : left;
+ margin              : 4px;
+ }
+ .overlay1 { 
+ background          : rgba(0, 0, 0, 0.75);
+ bottom              : 0;
+ left                : 0;
+ opacity             : 0;
+ padding             : 0;
+ position            : absolute;
+ right               : 0;
+ text-align          : center;
+ top                 : 0;
+ transition          : opacity 0.25s ease 0s;
+ }
+ .photo_view1: hover .overlay1 {
+ opacity             : 0.5;
+ }
+ .plus1 {
+ font-family         : Helvetica;
+ font-weight         : 900;
+ color               : rgba(255,255,255,.85);
+ font-size           : 65px;
+ }
+ .overlay2 { 
+ background          : rgba(0, 0, 0, 0.75);
+ bottom              : 0;
+ left                : 0;
+ opacity             : 0;
+ padding             : 0;
+ position            : absolute;
+ right               : 0;
+ text-align          : center;
+ top                 : 0;
+ transition          : opacity 0.25s ease 0s;
+ }
+ .photo_view2: hover .overlay2 {
+ opacity             : 0.5
+ }
+ .photo_view2{
+ margin              : 5px;
+ float               : left;
+}
+ .plus2 {
+ font-family         : Helvetica;
+ font-weight         : 900;
+ color               : rgb(68, 45, 85);
+ font-size           : 14px;
+ background-color    : #ccc;
+ width               : 30px;
+ height              : 30px;cursor: pointer;
+ display             : block;
+ border-radius       : 50%;
+ line-height         : 30px;
+ margin-left         : 5px;
+ margin-top          : 5px;
+ }
+
+
+
+.form-horizontal.create-class-form .checkbox .checker, .form-horizontal.create-class-form .checkbox-inline .checker{top: 18px;}

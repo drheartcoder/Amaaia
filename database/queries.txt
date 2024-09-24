@@ -1,0 +1,23 @@
+CREATE TABLE `transactions` (
+ `transaction_id` int(20) NOT NULL AUTO_INCREMENT,
+ `tracking_id` varchar(50) NOT NULL,
+ `order_id` varchar(50) NOT NULL,
+ `bank_ref_no` varchar(50) DEFAULT NULL,
+ `order_status` varchar(50) DEFAULT NULL,
+ `payment_status` enum('0','1','2','3','4') NOT NULL DEFAULT '0' COMMENT '0-pending 1-Success 2-Failure 3-Aborted 4-Invalid',
+ `card_name` varchar(50) DEFAULT NULL,
+ `currency` varchar(20) DEFAULT NULL,
+ `amount` varchar(100) NOT NULL,
+ `billing_name` varchar(30) DEFAULT NULL,
+ `billing_address` text,
+ `billing_city` varchar(50) DEFAULT NULL,
+ `billing_country` varchar(50) DEFAULT NULL,
+ `billing_email` varchar(50) DEFAULT NULL,
+ `product_id` int(12) NOT NULL,
+ `user_id` int(12) NOT NULL,
+ `response_data` text,
+ `trans_date` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
+ `created_at` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
+ `updated_at` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
+ PRIMARY KEY (`transaction_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=39 DEFAULT CHARSET=utf8

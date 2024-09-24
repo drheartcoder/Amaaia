@@ -1,0 +1,250 @@
+[33mcommit 1da8822bf3ec1f097c18a1a70e191cde8545bbd3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mbitbucket/master[m[33m)[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Wed Apr 18 19:02:16 2018 +0530
+
+    admin->prodct line and occasions module created.
+
+[33mcommit 27bf0485af9bbf121126b2c3af3413fbfa285215[m
+Merge: 90f44fd 852d2e0
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Wed Apr 18 14:08:52 2018 +0530
+
+    Merge branch 'master' of team-sagars:sagars-webwing/amaaia
+
+[33mcommit 90f44fd6437a9a90c1f46ba9d123c5f6d5bf438d[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Wed Apr 18 14:08:21 2018 +0530
+
+    save changes.
+
+[33mcommit 852d2e097a784ddff7c3fa9a0b9279f709cd62e9[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Wed Apr 18 12:58:04 2018 +0530
+
+    aaded breadcum for all modules
+
+[33mcommit de05b9fa69815ec8b8c0f34876bcb6838468d5e3[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Wed Apr 18 11:34:26 2018 +0530
+
+    1. work on edit insurance details
+    2. work on add insurance details
+
+[33mcommit cfaa2f88df42dc444ab94a2c2dd32b018af609c0[m
+Merge: 8771418 51b3095
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Wed Apr 18 09:41:37 2018 +0530
+
+    Merge branch 'master' of sagars-webwing.org:sagars-webwing/amaaia
+
+[33mcommit 877141896a74828e4e40cafd3fec59f98357ba6d[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Wed Apr 18 09:40:55 2018 +0530
+
+    added metal detailing module
+
+[33mcommit 51b3095638ab9c05f129a76846f9c2025510332b[m
+Merge: 266ae66 aa58066
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Wed Apr 18 09:39:41 2018 +0530
+
+    conflict solved in route/admin.php
+    Merge branch 'master' of team-sagars:sagars-webwing/amaaia
+
+[33mcommit 266ae66df16a45fa9c64cae804db1823fd1ea00e[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Wed Apr 18 09:35:45 2018 +0530
+
+    admin-> sub category and front pages modules completed.
+
+[33mcommit aa58066a4072083cd628adb3b1be88a2b84c19cb[m
+Merge: a066931 935f8f2
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Tue Apr 17 18:39:01 2018 +0530
+
+    conflict solved at admin routes
+    Merge branch 'master' of sagars-webwing.org:sagars-webwing/amaaia
+
+[33mcommit a066931a27bf9a5e6f36da48ecf7cbbf35f3db99[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Tue Apr 17 18:36:59 2018 +0530
+
+    1. Worked on product metal
+    2. Worked on product brand
+    3. Worked on product color
+    4. Worked on product quality
+
+[33mcommit 935f8f252490b583cb24d75235f65e0f22c18479[m
+Merge: 4c5a47c b663626
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Tue Apr 17 15:55:56 2018 +0530
+
+    Merge branch 'master' of team-sagars:sagars-webwing/amaaia
+
+[33mcommit 4c5a47ccdcc8046196de885e07dc81fbfa341f07[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Tue Apr 17 15:55:32 2018 +0530
+
+    save changes.
+
+[33mcommit b663626aae27665b1d5e769a010d1be0bc18ad3d[m
+Merge: 0c0d355 7e61492
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Tue Apr 17 15:46:30 2018 +0530
+
+    Merge branch 'master' of sagars-webwing.org:sagars-webwing/amaaia
+
+[33mcommit 0c0d355a8b44c0d10f4d4097592bff98eab5b9ca[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Tue Apr 17 15:46:10 2018 +0530
+
+    aaded code to add metal
+
+[33mcommit 7e6149276b227b95ca3226124c2a1d75a0ac0346[m
+Merge: 0f091cd 55c1ce5
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Tue Apr 17 15:01:55 2018 +0530
+
+    Merge branch 'master' of team-sagars:sagars-webwing/amaaia
+
+[33mcommit 0f091cdac8693040ed1bf8cd78bb960c39afe03f[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Tue Apr 17 15:00:41 2018 +0530
+
+    Implemented tinymce for editors.
+
+[33mcommit 55c1ce5cf9ef0724827145ab79deea958bb8e9e5[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Tue Apr 17 14:57:26 2018 +0530
+
+    added data tables with laravel datatables
+
+[33mcommit 6dc2e9a46f4397b5274108538892f496c6da8b79[m
+Merge: 2dc49e7 6e88154
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Tue Apr 17 10:10:23 2018 +0530
+
+    Merge branch 'master' of team-sagars:sagars-webwing/amaaia
+
+[33mcommit 2dc49e75347bc049af7cc14f7ebccd4c53a24e5a[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Tue Apr 17 10:09:36 2018 +0530
+
+    Made changes in admin->category module.
+
+[33mcommit 6e881544880d4a14f65c1f91a7e8c8fccf354231[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Tue Apr 17 10:08:22 2018 +0530
+
+    aaded files for datatables
+
+[33mcommit a981b23157ab713f79c6c20b1774759e47cdb3ec[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Mon Apr 16 15:40:07 2018 +0530
+
+    save changes.
+
+[33mcommit 149bb1ac7664976d869273e2d1ef4f08da6e9bb8[m
+Merge: e191d1a 778099a
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Mon Apr 16 12:56:53 2018 +0530
+
+    Merge branch 'master' of sagars-webwing.org:sagars-webwing/amaaia
+
+[33mcommit e191d1aba4b464d58fcd0aad3c1c45c9e1f31e2d[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Mon Apr 16 12:56:21 2018 +0530
+
+    changes made in forgot password
+
+[33mcommit 778099adde1c1a0d3f3c9ff3151ddcb3198fccf1[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Mon Apr 16 12:46:48 2018 +0530
+
+    save changes in admin sidebar.
+
+[33mcommit aa2825a160b8c0840cf3ce2198ce0fd3a8ce0e58[m
+Merge: f109939 1e08530
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Mon Apr 16 12:37:37 2018 +0530
+
+    admin->route.php - conflict solved
+    Merge branch 'master' of team-sagars:sagars-webwing/amaaia
+
+[33mcommit f109939aef69e4de24033329d25b50af6646acb2[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Mon Apr 16 12:31:57 2018 +0530
+
+    admin->account setting - Account setting page completd.
+
+[33mcommit 1e0853000fbd859da9ef9bfbb196b1ed2603f0c8[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Fri Apr 13 19:18:33 2018 +0530
+
+    added subject for forgot password mail
+
+[33mcommit 0d559ba157a1de52971a1fcada834071c19c1502[m
+Merge: 58ac958 3dcc7bb
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Fri Apr 13 16:39:22 2018 +0530
+
+    Merge branch 'master' of sagars-webwing.org:sagars-webwing/amaaia
+
+[33mcommit 58ac9584fc99a299673611907d000ea6ca5fbcd0[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Fri Apr 13 16:38:49 2018 +0530
+
+    added dynamic view admin forget password
+
+[33mcommit 3dcc7bba2f396d980e35ad660fa49e59ad5605d0[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Fri Apr 13 16:37:01 2018 +0530
+
+    admin->change password - Change password functionality completed.
+
+[33mcommit ef6363164194de766f7e230222805c81bf2585b7[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Fri Apr 13 12:41:20 2018 +0530
+
+    save changes.
+
+[33mcommit 057a7cbcd6a4c50c7959d680be6d93a628d6b4b5[m
+Merge: 6a7c8ac eb1e4a2
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Fri Apr 13 12:39:17 2018 +0530
+
+    conflicts solved at change password
+    Merge branch 'master' of sagars-webwing.org:sagars-webwing/amaaia
+
+[33mcommit 6a7c8ac13efc35315d53cfbc12a667ac559a75c6[m
+Author: Sagar Pawar <sagarp@webwingtechnologies.com>
+Date:   Fri Apr 13 12:37:07 2018 +0530
+
+    changes made in forgot admin password
+
+[33mcommit eb1e4a261b37dab98ad07da365af088cc9d9ddae[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Fri Apr 13 12:35:33 2018 +0530
+
+    made changes in admin/password controller.
+
+[33mcommit f87e516b5315c581d8067b657490c7a27404b63e[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Fri Apr 13 11:04:29 2018 +0530
+
+    remove vendor from gitignore.
+
+[33mcommit a5050cd055abb16c5b6b174bbb6374f1a0de8270[m
+Merge: 3d92a22 de21f89
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Fri Apr 13 10:50:59 2018 +0530
+
+    Merge branch 'master' of team-sagars:sagars-webwing/amaaia
+
+[33mcommit 3d92a226fbe9b7e354519c4740b1a1b1161a85e5[m
+Author: Deepak Bari <deepakb@webwingtechnologies.com>
+Date:   Fri Apr 13 10:49:22 2018 +0530
+
+    tst commit
+
+
